@@ -50,6 +50,6 @@ In order to be eligible for winning the challenge you must do 3 things before ti
 
 Violating any of the following rules will disqualify you from the competition
 
-# Starting before time begins or continuing after the challenge ends. 
-# Using code found online for the solution. The rules rules apply as self-assesments where you are free to use the internet for guidance or issues, but cannot look up exact solutions for the problem at hand. 
+* Starting before time begins or continuing after the challenge ends. 
+* Using code found online for the solution. The rules rules apply as self-assesments where you are free to use the internet for guidance or issues, but cannot look up exact solutions for the problem at hand. 
 
