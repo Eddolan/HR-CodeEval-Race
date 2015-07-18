@@ -32,11 +32,11 @@ You will get 1 point for each problem each CodeEval problem you fully solve in t
 
 The below images show a partially completed problem, which will not yield a point:
 
-![Not a point]()
+![Not a point](https://s3-us-west-2.amazonaws.com/hackreactor/notSolved.png)
 
 And a fully solved problem that will yield a point:
 
-![This gets a point]()
+![This gets a point](https://s3-us-west-2.amazonaws.com/hackreactor/solved.png)
 
 ## What to do when time is up
 
