@@ -24,7 +24,7 @@ You will want to create a new account for the challenge as you will not get cred
 * Copy the test examples shown on CodeEval to `test.txt`
 * You can run the code in `solution.js` by navigating to that directory in a terminal window and running `node solution.js`
 * After solving your problem locally, upload it to CodeEval
-* After ensuring that you for full credit on CodeEval, repeat these steps for another problem until time is up
+* After ensuring that you recieved full credit on CodeEval, repeat these steps for another problem until time is up
 
 ## How to get points
 
